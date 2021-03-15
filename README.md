@@ -1,5 +1,5 @@
 # Hiee there 👋👻 ![profile views](https://profile-counter.glitch.me/6gx/count.svg)
-## README of Not a Nerd 
+## README of Not a Nub
 <details open>
  <summary><b>My Github Stats</b>: </summary>
 <br>
