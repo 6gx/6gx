@@ -10,8 +10,10 @@
 </details>
 <br>
 
+<p align="center"><img src="https://lanyard-profile-readme.vercel.app/api/817743840696991747"></p>
+
 ## Social
-- Discord:- not a nub (bingus)#1072
+- Discord:- Sociopath#1000
 - Instagram:- [@__the_game_is_on_](https://www.instagram.com/__the_game_is_on_) 
 - Twitter:- [@notanerd_5](https://twitter.com/notanerd_5)
 <br>
